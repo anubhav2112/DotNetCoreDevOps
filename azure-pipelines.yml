@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: MyAgentTest''
 
 variables:
   buildConfiguration: 'Release'
