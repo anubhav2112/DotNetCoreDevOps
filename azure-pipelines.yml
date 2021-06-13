@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: MyAgentTest''
+  vmImage: 'MyAgentTest'
 
 variables:
   buildConfiguration: 'Release'
